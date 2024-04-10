@@ -1,2 +1,2 @@
-# LeetCode
-Solutions Of prblms from leetcode
+# Recursion
+Codes of prblms related to recursion basics
