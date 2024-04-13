@@ -20,7 +20,7 @@ public class FastPower {
 
     public static void main(String[] args) {
         int x = 2;
-        long val = power(244140,9);
+        long val = power(2,8);
         System.out.println(val);
     }
 }
